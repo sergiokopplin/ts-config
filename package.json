@@ -1,0 +1,23 @@
+{
+	"name": "@kopplin/ts-config",
+	"version": "0.1.0",
+	"description": "Shared Typescript config",
+	"author": "Sérgio Kopplin <sergiokopplin.com>",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sergiokopplin/ts-config.git"
+	},
+	"bugs": {
+		"url": "https://github.com/sergiokopplin/ts-config/issues"
+	},
+	"homepage": "https://github.com/sergiokopplin/ts-config#readme",
+	"main": "tsconfig.json",
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript"
+	],
+	"license": "MIT"
+}
