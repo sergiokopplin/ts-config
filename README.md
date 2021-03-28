@@ -16,7 +16,6 @@ $ npm install --save-dev @kopplin/ts-config
 
 ```json
 {
-	"extends": "@kopplin/tsconfig",
-  ...
+	"extends": "@kopplin/ts-config"
 }
 ```
